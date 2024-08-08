@@ -47,6 +47,15 @@ var documentConfig =
       editors: "",
       date: "2024-06-13",
       status: ""
+    },
+    "Zicht op Nederland, 2024": {
+      title: "Zicht op Nederland",
+      href: "https://www.zichtopnl.nl",
+      authors: "",
+      publisher: "",
+      editors: "",
+      date: "",
+      status: ""
     }
   }
 }

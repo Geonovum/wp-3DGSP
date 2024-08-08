@@ -9,7 +9,7 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/wp/3DGSP/"
   ],
-  publishDate: "2024-07-24",
+  publishDate: "2024-08-08",
   publishVersion: "0.0.1",
   thisVersion: [
     "https://geonovum.github.io/wp-3DGSP/"
@@ -22,5 +22,19 @@ var documentConfig =
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     }
-  ]
+  ],
+  localBiblio: {
+    "GB": {
+      title: "Relative Location Ontology: An ontological model for representing directional topological relationships between spatial entities in oriented space",
+      href: "",
+      authors: [
+        "Anne Göbels",
+        "Jakob Beetz"
+      ],
+      publisher: "",
+      editors: "",
+      date: "2024-06-14",
+      status: ""
+    }
+  }
 }

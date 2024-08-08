@@ -126,6 +126,109 @@ var documentConfig =
       editors: "",
       date: "2023-06-22",
       status: ""
+    },
+    "Spivack, 2007": {
+      title: "How the WebOS Evolves",
+      href: "https://novaspivack.typepad.com/nova_spivacks_weblog/2007/02/steps_towards_a.html",
+      authors: [
+        "Nova Spivack"
+      ],
+      publisher: "",
+      editors: "",
+      date: "2007-01-01",
+      status: ""
+    },
+    "AnIntroductionToTheSpatialWeb": {
+      title: "An Introduction to The Spatial Web",
+      href: "https://medium.com/swlh/an-introduction-to-the-spatial-web-bb8127f9ac45",
+      authors: [
+        "Rene Gabriel"
+      ],
+      publisher: "",
+      editors: "",
+      date: "2019-01-01",
+      status: ""
+    },
+    "Gupta, 2022": {
+      title: "What is Web 3.0",
+      href: "https://www.gartner.com/en/digital-markets/insights/what-is-web-3-0",
+      authors: [
+        "Shubham Gupta"
+      ],
+      publisher: "Gartner",
+      editors: "",
+      date: "2022-01-01",
+      status: ""
+    },
+    "Wagner et al., 2020": {
+      title: "Representing construction-related geometry in a semantic web context: A review of approaches",
+      href: "https://pure.tue.nl/ws/portalfiles/portal/174160364/publisher_version.pdf",
+      authors: [
+        "Anna Wagner",
+        "Mathias Bonduel",
+        "Pieter Pauwels",
+        "Rüppel Uwe"
+      ],
+      publisher: "Elsevier B.V.",
+      editors: "",
+      date: "2020-01-01",
+      status: ""
+    },
+    "Folmer & Everdingen, 2017": {
+      title: "Linked Data in Nederland van pilot tot platform",
+      href: "",
+      authors: [
+        "Erwin Folmer",
+        "Pieter van Everdingen"
+      ],
+      publisher: "Platform Linked Data Nederland",
+      editors: "",
+      date: "2017-01-01",
+      status: ""
+    },
+    "Abhayaratna, et al., 2020": {
+      title: "OGC Benefits of Representing Spatial Data Using Semantic and Graph Technologies",
+      href: "",
+      authors: [
+        "Joseph Abhayaratna",
+        "Linda van den Brink",
+        "Nicholas Car",
+        "Rob Atkinson",
+        "Timo Homburg",
+        "Frans Knibbe",
+        "Kris McGlinn",
+        "Anna Wagner",
+        "Mathias Bonduel",
+        "Mads Holten Rasmussen",
+        "Florian Thiery"
+      ],
+      publisher: "Open Geospatial Consortium",
+      editors: "",
+      date: "2020-01-01",
+      status: ""
+    },
+    "Triply, 2024": {
+      title: "Kadaster Datalabs Agentschap Telecom aantal meldingen per gemeente",
+      href: "https://data.labs.kadaster.nl/agentschap-telecom/-/queries/aantal-meldingen-per-gemeente/2",
+      authors: [
+        "Triply"
+      ],
+      publisher: "Kadaster",
+      editors: "",
+      date: "2024-01-01",
+      status: ""
+    },
+    "Clemen & Görne, 2019": {
+      title: "Level of Georeferencing (LoGeoRef) using IFC for BIM",
+      href: "",
+      authors: [
+        "Christian Clemen",
+        "Hendrik Görne"
+      ],
+      publisher: "Journal of Geodesy, Cartography and Cadastre",
+      editors: "",
+      date: "2019-01-01",
+      status: ""
     }
   }
 }

@@ -10,18 +10,18 @@ var organisationConfig =
     en: {
       geen: "None",
       basis: "Document",
+      ld: "Living document",
       cv: "Candidate recommendation",
       def: "Recommendation",
-      ld: "Living document",
       vv: "Proposed recommendation",
       wv: "Editor’s draft"
     },
     nl: {
       geen: "Geen",
       basis: "Document",
+      ld: "Levend document",
       cv: "Consultatieversie",
       def: "Vastgestelde versie",
-      ld: "Levend document",
       vv: "Versie ter vaststelling",
       wv: "Werkversie"
     }
@@ -29,9 +29,9 @@ var organisationConfig =
   labelColor: {
     geen: "#000000",
     basis: "#80CC28",
+    ld: "#80CC28",
     cv: "#045D9F",
     def: "#045D9F",
-    ld: "#80CC28",
     vv: "#045D9F",
     wv: "#FF0000"
   },
@@ -107,9 +107,9 @@ var organisationConfig =
       sotd: "Status of This Document",
       geen: "None",
       basis: "This document has no official standing.",
+      ld: "This is a living document, which is updated regularly.",
       cv: "This is a proposed recommendation approved by TO. Comments regarding this document may be sent to [address].",
       def: "This is the definitive version of this document. Edits resulting from consultations have been applied.",
-      ld: "This is a living document, which is updated regularly.",
       vv: "This is the definitive concept of this document. Edits resulting from consultations have been applied.",
       wv: "This is a draft that could be altered, removed or replaced by other documents. It is not a recommendation approved by TO."
     },
@@ -117,9 +117,9 @@ var organisationConfig =
       sotd: "Status van dit document",
       geen: "Geen",
       basis: "Dit is een document zonder officiële status.",
+      ld: "Dit is een levend document dat regelmatig gewijzigd wordt.",
       cv: "Dit is een door het TO goedgekeurde consultatieversie. Commentaar over dit document kan gestuurd worden naar [adres].",
       def: "Dit is de definitieve versie van dit document. Wijzigingen naar aanleiding van consultaties zijn doorgevoerd.",
-      ld: "Dit is een levend document dat regelmatig gewijzigd wordt.",
       vv: "Dit is een definitief concept van de nieuwe versie van dit document. Wijzigingen naar aanleiding van consultaties zijn doorgevoerd.",
       wv: "Dit is een werkversie die op elk moment kan worden gewijzigd, verwijderd of vervangen door andere documenten. Het is geen door het TO goedgekeurde consultatieversie."
     }

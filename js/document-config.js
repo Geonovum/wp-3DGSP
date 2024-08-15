@@ -138,7 +138,7 @@ var documentConfig =
       date: "2007-01-01",
       status: ""
     },
-    "AnIntroductionToTheSpatialWeb": {
+    "Gabriel, 2019": {
       title: "An Introduction to The Spatial Web",
       href: "https://medium.com/swlh/an-introduction-to-the-spatial-web-bb8127f9ac45",
       authors: [
